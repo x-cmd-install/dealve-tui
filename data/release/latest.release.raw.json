@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2643528,
       "digest": "sha256:02eb8afd10f117403a7ebd11301990d7be653c247c1bdbf584ffdfd5594c5a4d",
-      "download_count": 49,
+      "download_count": 50,
       "created_at": "2026-05-08T10:16:57Z",
       "updated_at": "2026-05-08T10:16:57Z",
       "browser_download_url": "https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-linux-x86_64"
