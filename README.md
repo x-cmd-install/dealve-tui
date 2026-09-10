@@ -23,7 +23,16 @@ x install dealve-tui
 - **Latest**: `v1.0.2` (2026-02-23)
 - **Last commit**: 2026-05-08
 - **Assets in release**: 5
-- **Published**: 2026-02-23T09:16:59Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dealve-linux-aarch64](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-linux-aarch64) | 2.4 MiB | `native/linux/arm64` |
+| [dealve-linux-x86_64](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-linux-x86_64) | 2.5 MiB | `native/linux/x64` |
+| [dealve-macos-aarch64](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-macos-aarch64) | 2.3 MiB | `native/darwin/arm64` |
+| [dealve-macos-x86_64](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-macos-x86_64) | 2.3 MiB | `native/darwin/x64` |
+| [dealve-windows-x86_64.exe](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-windows-x86_64.exe) | 2.7 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -56,8 +65,8 @@ Total: **5,423** lines of code across **28** files in the top 5 languages.
 Install metadata for dealve-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dealve-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dealve-tui.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dealve-tui.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:26:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:59:03Z._

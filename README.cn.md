@@ -4,7 +4,7 @@
 
 Delve into game deals from your terminal 👾
 
-![dealve-tui](https://repo.x-cmd.io/dealve-tui.svg)
+![dealve-tui](https://repo.x-cmd.io/dealve-tui.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,16 @@ x install dealve-tui
 - **最新版本**: `v1.0.2` (2026-02-23)
 - **最近提交**: 2026-05-08
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-02-23T09:16:59Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dealve-linux-aarch64](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-linux-aarch64) | 2.4 MiB | `native/linux/arm64` |
+| [dealve-linux-x86_64](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-linux-x86_64) | 2.5 MiB | `native/linux/x64` |
+| [dealve-macos-aarch64](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-macos-aarch64) | 2.3 MiB | `native/darwin/arm64` |
+| [dealve-macos-x86_64](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-macos-x86_64) | 2.3 MiB | `native/darwin/x64` |
+| [dealve-windows-x86_64.exe](https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-windows-x86_64.exe) | 2.7 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -60,4 +69,4 @@ dealve-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:26:31Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:59:03Z._
