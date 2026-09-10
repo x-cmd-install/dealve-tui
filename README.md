@@ -1,24 +1,63 @@
 # dealve-tui
 
+[中文版本](./README.cn.md)
+
 Delve into game deals from your terminal 👾
 
-- **Upstream**: <https://github.com/kurama/dealve-tui>
-- **Homepage**: <https://crates.io/crates/dealve-tui>
-- **Latest release**: `v1.0.2` (2026-02-23)
-- **Last commit**: 2026-05-08
-- **License**: Apache-2.0
-- **Stars**: 246 · **Forks**: 8 · **Open issues**: 13 · **Contributors**: 3
+![dealve-tui](https://repo.x-cmd.io/dealve-tui.svg)
 
-## Installation
+## Install
 
 ```sh
 x install dealve-tui
 ```
 
-See <https://x-cmd.com/install/dealve-tui> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/kurama/dealve-tui>
+- **Homepage**: <https://crates.io/crates/dealve-tui>
+- **License**: Apache-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:23:48Z._
+- **Latest**: `v1.0.2` (2026-02-23)
+- **Last commit**: 2026-05-08
+- **Assets in release**: 5
+- **Published**: 2026-02-23T09:16:59Z
+
+## Popularity
+
+- **Stars**: 246 · **Forks**: 8 · **Open issues**: 13 · **Contributors**: 3
+
+## Totals (cumulative)
+
+- **Releases**: 3 · **Merged PRs**: 12 · **Open PRs**: 2 · **Closed issues**: 10 · **Open issues**: 3 · **Commits**: 83
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 3 | 12 | 2 | 10 | 3 | 83 |
+
+## Code size
+
+Total: **5,423** lines of code across **28** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 5,342 | 165 | 598 | 22 |
+| Toml | 81 | 0 | 7 | 4 |
+| Markdown | 0 | 83 | 45 | 2 |
+
+## Improve this data
+
+Install metadata for dealve-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dealve-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dealve-tui.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:26:31Z._
