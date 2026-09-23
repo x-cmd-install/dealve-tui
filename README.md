@@ -4,7 +4,7 @@
 
 Delve into game deals from your terminal 👾
 
-[![x-cmd/install — dealve-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dealve-tui.svg)](https://x-cmd.com/install/dealve-tui)
+[![x-cmd/install — dealve-tui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/dealve-tui.svg)](https://x-cmd.com/install/dealve-tui)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **5,423** lines of code across **28** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 1 | 2 | 0 | 1 | 2 |
-| 360d | 2025-09-27 | 3 | 12 | 2 | 10 | 3 | 83 |
-| last720d | 2024-10-02 | 3 | 12 | 2 | 10 | 3 | 83 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 1 | 2 | 0 | 1 | 2 |
+| 360d | 2025-09-28 | 3 | 12 | 2 | 10 | 3 | 83 |
+| last720d | 2024-10-03 | 3 | 12 | 2 | 10 | 3 | 83 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for dealve-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:41:31Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:39:59Z._
