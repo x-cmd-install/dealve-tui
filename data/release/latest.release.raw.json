@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2495656,
       "digest": "sha256:9b1f75da26ccb8bb2217a430e84fcbe0b01c72b6e0c55e1b59c090233cc2727f",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-05-08T10:16:57Z",
       "updated_at": "2026-05-08T10:16:57Z",
       "browser_download_url": "https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-linux-aarch64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2643528,
       "digest": "sha256:02eb8afd10f117403a7ebd11301990d7be653c247c1bdbf584ffdfd5594c5a4d",
-      "download_count": 78,
+      "download_count": 81,
       "created_at": "2026-05-08T10:16:57Z",
       "updated_at": "2026-05-08T10:16:57Z",
       "browser_download_url": "https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-linux-x86_64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2414816,
       "digest": "sha256:a0c8ba0057334d709f674db9b1d4ca7f946532149479093bc6d7a53ae7fc484f",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-05-08T10:16:57Z",
       "updated_at": "2026-05-08T10:16:57Z",
       "browser_download_url": "https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-macos-aarch64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2420652,
       "digest": "sha256:848219fda429a1eb27ac0fe57a5c0c73ebedc5691e75a2c6ae6752fb7be57e35",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-05-08T10:16:57Z",
       "updated_at": "2026-05-08T10:16:57Z",
       "browser_download_url": "https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-macos-x86_64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2792448,
       "digest": "sha256:87ab862abeb501d1e23a3adaeacec239c7f81e659461c897e45c48150f6012d1",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-05-08T10:16:57Z",
       "updated_at": "2026-05-08T10:16:57Z",
       "browser_download_url": "https://github.com/kurama/dealve-tui/releases/download/v1.0.2/dealve-windows-x86_64.exe"
